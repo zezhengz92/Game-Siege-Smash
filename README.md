@@ -74,4 +74,4 @@ All in `js/game.js`:
 
 ## License
 
-MIT, see [LICENSE](LICENSE). Replace `YOUR NAME` in the license with your own name before publishing.
+MIT, see [LICENSE](LICENSE). 
